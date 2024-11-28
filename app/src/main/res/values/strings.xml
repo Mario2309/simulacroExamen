@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">simulacroExamen</string>
+    <string name="nombre">Nombre:</string>
+    <string name="edad">Edad:</string>
+    <string name="agregar">Agregar</string>
+    <string name="logear_perfil">Loggear con perfil</string>
+    <string name="volver">Volver</string>
+    <string name="vista_reciclada">Vista Reciclada</string>
+    <string name="todo">TODO</string>
+</resources>
